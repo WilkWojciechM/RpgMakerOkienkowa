@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\bin\Debug\RpgMakerOkienkowa.exe.config
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\bin\Debug\RpgMakerOkienkowa.exe
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\bin\Debug\RpgMakerOkienkowa.pdb
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.Form1.resources
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.Properties.Resources.resources
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.exe
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.pdb
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\RpgMakerOkienkowa\RpgMakerOkienkowa\obj\Debug\RpgMakerOkienkowa.csproj.CoreCompileInputs.cache
